@@ -31,8 +31,8 @@ O objetivo central foi reforçar meus conhecimentos em desenvolvimento front-end
   - Botão de navegação até a seção de contato, com rolagem suave.<br>
 
   - Formulário de contato funcional, simulando o envio de mensagens (pode ser integrado a backend futuramente).<br>
-
-   -Layout leve e moderno, utilizando imagens, vídeos e uma paleta natural que remete a florestas e natureza.<br><br>
+  
+  - Layout leve e moderno, utilizando imagens, vídeos e uma paleta natural que remete a florestas e natureza.<br><br>
 
 ## 🧭 Experiência do Usuário
 A interface foi pensada para oferecer uma experiência imersiva, com elementos que se adaptam ao "clima" da página, cores suaves, vídeos de fundo relaxantes e navegação fluida. A página convida o usuário a explorar o conteúdo de forma simples e intuitiva, ao mesmo tempo em que demonstra recursos modernos de front-end responsivo e interativo.<br><br>
