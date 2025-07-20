@@ -48,3 +48,51 @@ A interface foi pensada para oferecer uma experiência imersiva, com elementos q
 Enrico Clemente Amoroso
 
 __________________________________________________________________________________________________________
+
+# 🌲 Forest Project
+This project consists of a responsive landing page for a company specializing in immersive forest experiences such as star gazing, meteor showers, northern lights, canoeing, and other nature-related activities.<br><br>
+
+Developed as part of my learning process in Tailwind CSS, the single-page site features a clean, elegant, and functional design, utilizing modern styling techniques, responsiveness, and dynamic interactivity through JavaScript.<br><br>
+
+The main goal was to strengthen my front-end development skills, focusing on responsive design, dynamic DOM manipulation, and visual integration that adapts to the real-time weather and environmental conditions, providing a personalized experience for the user.<br><br>
+
+The project was implemented using Tailwind CSS version 3, despite version 4 already being available, which introduced significant changes in configuration and utility usage. I intentionally chose version 3 to consolidate my foundation with a more mature and stable framework.<br><br>
+
+## 🛠 Technologies Used
+- **Tailwind CSS:** Utility-first framework used for fast and responsive styling, with extensive use of classes for spacing, typography, colors, responsiveness, and layout control.<br><br>
+
+- **HTML:** Semantic and well-organized content structure.<br><br>
+
+- **JavaScript:** Used for DOM manipulation, generating random data (simulating weather conditions), and dynamic swapping of elements like icons and videos based on the "day’s weather."<br><br>
+
+- **Git + GitHub Pages:** Version control and online project deployment directly via GitHub.<br><br>
+
+## ✨ Features and Content
+- **Single-page (one-page) layout:** with smooth scrolling navigation between sections.<br><br>
+
+- **Dynamic weather:** Icons and background videos at the top of the page change randomly to simulate sun or rain, affecting:<br>
+
+  - The weather icon (☀️ or 🌧️)<br>
+
+  - The descriptive weather text<br>
+
+  - The background video (one for sun, another for rain)<br>
+
+  - Temperature and weather conditions also change randomly on page reload.<br>
+
+  - Fully responsive design, adapting to mobile devices, tablets, and desktops.<br>
+
+  - Navigation button linking to the contact section with smooth scroll.<br>
+
+  - Functional contact form simulating message submission (can be integrated with a backend in the future).<br>
+
+  - Lightweight and modern layout using images, videos, and a natural palette reminiscent of forests and nature.<br><br>
+
+# 🧭 User Experience
+The interface is designed to offer an immersive experience, with elements adapting to the page's "weather," soft colors, relaxing background videos, and smooth navigation. The page invites users to explore content simply and intuitively, while showcasing modern responsive and interactive front-end features.<br><br>
+
+## 🔗 Project Link
+👉 https://enrico-collab.github.io/Forest/
+
+## 👨‍💻 Author
+Enrico Clemente Amoroso
