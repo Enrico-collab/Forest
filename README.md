@@ -1,8 +1,12 @@
 # 🌲 Projeto Forest
 
-Este projeto é uma landing page responsiva desenvolvida como parte do meu processo de aprimoramento em Tailwind CSS. A proposta foi criar uma página única com um visual limpo, elegante e funcional, utilizando recursos modernos de estilização, responsividade e interatividade dinâmica com JavaScript.
+Este projeto consiste em uma landing page responsiva para uma empresa especializada em oferecer experiências imersivas na floresta, como observação de estrelas, chuvas de meteoros, auroras boreais, canoagem e outras atividades em contato direto com a natureza.<br><br>
 
-O objetivo central foi reforçar meus conhecimentos em desenvolvimento front-end, com foco em design responsivo, manipulação dinâmica de DOM e integração visual com condições variáveis de ambiente, simulando uma experiência personalizada de acordo com o clima do momento.<br><br>
+Desenvolvida como parte do meu processo de aprimoramento em Tailwind CSS, a página única apresenta um design limpo, elegante e funcional, utilizando recursos modernos de estilização, responsividade e interatividade dinâmica por meio de JavaScript.<br><br>
+
+O principal objetivo foi fortalecer minhas habilidades em desenvolvimento front-end, com ênfase em design responsivo, manipulação dinâmica do DOM e integração visual que se adapta ao clima e às condições ambientais em tempo real, proporcionando uma experiência personalizada para o usuário.<br><br>
+
+O projeto foi implementado com a versão 3 do Tailwind CSS, apesar de já existir a versão 4, que introduziu mudanças significativas na configuração e uso das utilitárias. Optei pela versão 3 intencionalmente, para consolidar minha base com uma estrutura mais madura e estável.<br><br>
 
 ## 🛠 Tecnologias Utilizadas
 - **Tailwind CSS:** Framework de utilitários usado para estilização ágil e responsiva, com uso intenso de classes para espaçamento, tipografia, cores, responsividade e controle de layout.<br><br>
