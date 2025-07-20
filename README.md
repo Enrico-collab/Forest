@@ -22,11 +22,11 @@ O projeto foi implementado com a versão 3 do Tailwind CSS, apesar de já existi
 
 - **Clima dinâmico:** Ícones e vídeos exibidos no topo da página são alterados aleatoriamente para simular sol ou chuva, afetando:<br>
 
-  - O ícone do clima (☀️ ou 🌧️)<br>
+  - O ícone do clima (☀️ ou 🌧️).<br>
 
-  - O texto descritivo do clima<br>
+  - O texto descritivo do clima.<br>
 
-  - O vídeo de fundo (um para sol e outro para chuva)<br>
+  - O vídeo de fundo (um para sol e outro para chuva).<br>
 
   - Temperatura e tempo também dinâmicos, mudando de forma aleatória ao recarregar a página.<br>
 
@@ -72,11 +72,11 @@ The project was implemented using Tailwind CSS version 3, despite version 4 alre
 
 - **Dynamic weather:** Icons and background videos at the top of the page change randomly to simulate sun or rain, affecting:<br>
 
-  - The weather icon (☀️ or 🌧️)<br>
+  - The weather icon (☀️ or 🌧️).<br>
 
-  - The descriptive weather text<br>
+  - The descriptive weather text.<br>
 
-  - The background video (one for sun, another for rain)<br>
+  - The background video (one for sun, another for rain.)<br>
 
   - Temperature and weather conditions also change randomly on page reload.<br>
 
